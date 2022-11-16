@@ -1,0 +1,7 @@
+{
+  "id": "evt_system_booted",
+  "type": "system.booted",
+  "data": {
+    
+  }
+}
